@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #FAF8F5;
+  color: #3D3530;
+  font-family: 'Nunito', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #F0EDE8;
+}
+::-webkit-scrollbar-thumb {
+  background: #D4C4BC;
+  border-radius: 3px;
+}
