@@ -73,8 +73,8 @@ export const scenes = [
         riceCooker: 'standby',
       },
     },
-    proactiveMessage: '钥匙在玄关鞋柜上方，昨晚21:14您回家时放在那里的。',
-    suggestions: ['找到了，谢谢！', '我的包呢？', '今天天气怎么样']
+    proactiveMessage: '早上好，现在是早上7:48。看您在客厅和玄关来回走动，是找不到什么东西了吗？',
+    suggestions: ['我钥匙找不到了', '我的包放哪了？', '没找东西，我马上出门']
   },
   {
     id: 'story-movie-weekend',
