@@ -2,6 +2,8 @@
 
 > “不是你控制家，而是家懂得你。”
 
+✨ **[立即体验 HomeMind 在线 Demo (Live Preview)](https://homemind-xi.vercel.app/)** ✨
+
 ## 🌟 项目愿景 (Vision)
 
 传统智能家居依然停留在“指令-执行”的被动时代（如“帮我开灯”、“把空调调到26度”）。
